@@ -4,7 +4,6 @@
  */
 package Hamburguesa;
 
-
 /**
  * COMPOSITE – Componente
  * Interfaz común para ingredientes simples (hojas) y la hamburguesa (nodo).

@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package Hamburguesa;
-
 public interface HamburguesaBuilder {
     HamburguesaBuilder agregarPan();
     HamburguesaBuilder agregarCarne();

@@ -1,5 +1,4 @@
 package iofactory.input;
-
 import java.util.Scanner;
 
 public class ConsoleInput implements Input {

@@ -1,5 +1,4 @@
 package iofactory.factory;
-
 import iofactory.input.DialogInput;
 import iofactory.input.Input;
 import iofactory.output.DialogOutput;

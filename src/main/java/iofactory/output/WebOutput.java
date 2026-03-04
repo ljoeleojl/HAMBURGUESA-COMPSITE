@@ -1,5 +1,4 @@
 package iofactory.output;
-
 public class WebOutput implements Output {
 
     @Override

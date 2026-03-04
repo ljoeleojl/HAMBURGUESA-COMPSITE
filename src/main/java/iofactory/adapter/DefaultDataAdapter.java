@@ -2,7 +2,6 @@ package iofactory.adapter;
 
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.TemporalAccessor;
-
 public class DefaultDataAdapter implements DataAdapter {
 
     @Override

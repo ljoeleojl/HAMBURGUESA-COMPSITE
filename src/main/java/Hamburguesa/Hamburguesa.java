@@ -5,7 +5,6 @@
 package Hamburguesa;
 import java.util.ArrayList;
 import java.util.List;
-
 /**
  * COMPOSITE – Nodo compuesto
  * Una hamburguesa contiene ingredientes (hojas u otras hamburguesas).

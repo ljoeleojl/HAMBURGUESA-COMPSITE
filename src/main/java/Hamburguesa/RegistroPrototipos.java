@@ -6,7 +6,6 @@ package Hamburguesa;
 
 import java.util.HashMap;
 import java.util.Map;
-
 /**
  * PROTOTYPE – Registro de prototipos
  * Almacena hamburguesas-plantilla (construidas por Builder) y entrega

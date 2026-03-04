@@ -1,5 +1,4 @@
 package iofactory.input;
-
 import javax.swing.JOptionPane;
 
 public class DialogInput implements Input {
